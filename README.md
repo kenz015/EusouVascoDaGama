@@ -1,5 +1,4 @@
-![Vasco](https://github.com/kenz015/EusouVascoDaGama/assets/138133692/572d4280-1aa1-4e51-bf94-22c211cf2e1f)
-
+![Vasco](<Imagem do WhatsApp de 2023-11-22 à(s) 17.33.31_186b40c5-1.jpg>)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Pronto-green?label=Status)
 
 📄**Descrição do projeto**
