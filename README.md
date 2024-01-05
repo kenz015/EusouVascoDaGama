@@ -13,6 +13,6 @@ Como foi meu primeiro projeto, ele foi desenvolvido com as ferramentas que eu co
 
 📁 **Acesso ao projeto**
 
-https://kenz015.github.io/vascodagama/
+https://kenz015.github.io/EusouVascoDaGama/
 
 Entre e aproveite a experiência! Além disso, sinta-se à vontade para sugerir melhorias ou apenas expressar sua opinião sobre o projeto no meu gmail gustavokdbo@gmail.com  
