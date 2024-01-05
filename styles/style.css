@@ -39,6 +39,10 @@ body {
     text-decoration: none; 
 }
 
+.cabecalho__menu__links:hover {
+  border-bottom: 1px solid var(--cor__secundaria);
+}
+
 .apresentacao{
     padding: 11% 0%;
     display: flex;
