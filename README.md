@@ -5,7 +5,8 @@
 📄**Descrição do projeto**
 
 Esta página foi feita para torcedores do gigante da colina.
-Além disso, ele é meu primeiro projeto. Portanto esse site tem como objetivo ser um portfólio/instrumento de estudo pessoal.
+
+Além disso, ele é meu primeiro projeto, Portanto esse site tem como objetivo ser um portfólio/instrumento de estudo pessoal.
 
 ✔️ **Tecnologias ultilizadas no projeto**
 
