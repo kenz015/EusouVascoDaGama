@@ -19,7 +19,7 @@
 body {
     box-sizing: border-box;
     background-image: url(/assets/wallpapper.png);
-    color: var(--cor__secundaria);
+    color: var(--cor__principal);
 }
 
 .cabecalho {
