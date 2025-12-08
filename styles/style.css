@@ -18,7 +18,7 @@
 
 body {
     box-sizing: border-box;
-    background-color: var(--cor__principal);
+    background: url(/assets/wallpapper.png);
     color: var(--cor__secundaria);
 }
 
